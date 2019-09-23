@@ -1,0 +1,9 @@
+# Reading Prep: PRINT II
+
+#### ALICE SCHAUMANN
+
+## Questions or Observations
+
+1. Type was originally created for mass production of text—a very industrial purpose. Now, it can function more as an artform. Lupton discusses many ways typefaces have become more artistic in nature, including the typeface Dead History, which samples from two existing typefaces. Medina's Bushwick typeface uses forms inspired by the neighborhood to express its culture. _The Book_ also discussed a transition from utilitarian to artistic in books. What allows for something to make this transition and become an artistic medium as well as a utilitarian one?
+2. As we have noted in prior discussions, text can be presented in many different media, each with its own affordances and limitations. As Lupton points out, "Contemporary designers and writers produce content for various contexts, from the pages of print to an array of software environments, screen conditions, and digital devices." When text is intended to be compatible with many media forms, the advantages of each can't be fully capitalized upon, while their limitations affect one another.
+3. Lupton describes the "birth of the user," emphasizing not just the act of reading, but also the interaction of the user with the text. Lupton discusses this in the context of computers (e.g. "Someone clicked here to get over there"), but we also see this in print text. What pages does a person visit and in what order? How do they make use of indices, footnotes, page numbers, etc.? This isn't as trackable as it is online, but readers of print text still, as Lupton says, play and are played by the text.
