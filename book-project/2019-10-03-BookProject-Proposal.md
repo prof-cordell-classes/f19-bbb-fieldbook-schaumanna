@@ -9,43 +9,43 @@ For my book project, I want to explore the concept of the page—what it means a
 Part I
 
 - Chapter 1: traditional format, new
- - Serve as a sort of control
+    - Serve as a sort of control
 - Chapter 2: traditional format, heavily used
- - From used copy of the book that has been well-loved by the reader
- - Ideally highlighting, notes, dog-eared pages
+    - From used copy of the book that has been well-loved by the reader
+    - Ideally highlighting, notes, dog-eared pages
 - Chapter 3: content divided into coherent sections, pages sized to fit sections
- - Explore what book looks like if page is considered most meaningful unit
+    - Explore what book looks like if page is considered most meaningful unit
 - Chapter 4: "fancy" pages
- - Emphasize how page can convey social status
- - Heavier paper or cardstock
- - Perhaps some other "status symbols"—historiated initials, marbling, etc.
+    - Emphasize how page can convey social status
+    - Heavier paper or cardstock
+    - Perhaps some other "status symbols"—historiated initials, marbling, etc.
 - Chapter 5: scroll
- - Not the traditional horizontal scroll—vertical, like scrolling through website
- - No pages, paragraphs are only breaks in text
+    - Not the traditional horizontal scroll—vertical, like scrolling through website
+    - No pages, paragraphs are only breaks in text
 - Chapter 6: accordion scroll
- - Pages not separated from each other, but still have visual breaks
- - Can be read with section open, or all folded up in accordion
+    - Pages not separated from each other, but still have visual breaks
+    - Can be read with section open, or all folded up in accordion
 - Chapter 7: pages made of different materials
- - Impact of material of page on how reader interacts with text
+    - Impact of material of page on how reader interacts with text
 
 Part II
 
 - Chapter 1: space provided for notes
- - Extra margins and line spacing for reader to interact with the text
+    - Extra margins and line spacing for reader to interact with the text
 - Chapter 2: content organized like a textbook
- - Information organized to ease reader's understanding
- - Headings, diagrams, etc.
+    - Information organized to ease reader's understanding
+    - Headings, diagrams, etc.
 - Chapter 3: picture book
- - Each page focused on something represented by a picture on that page
+    - Each page focused on something represented by a picture on that page
 - Chapter 4: marginal references to outside information
- - Use the margins of the book to connect the content to outside sources discussing the book and/or issues it touches upon
+    - Use the margins of the book to connect the content to outside sources discussing the book and/or issues it touches upon
 - Chapter 5: typographical variation
- - Explore effect of different typefaces
+    - Explore effect of different typefaces
 - Chapter 6: TBD
- - Something informed by what I notice about the way the used copy has been marked up
+    - Something informed by what I notice about the way the used copy has been marked up
 - Chapter 7: zine
- - Multimedia
- - Dramatic changes in page layout as move from one idea to another
+    - Multimedia
+    - Dramatic changes in page layout as move from one idea to another
 
 ## Skills
 
@@ -54,33 +54,33 @@ I plan on printing and binding all of these whose formats allow. I will therefor
 ## Materials and Equipment
 
 - Full text of _A Study In Scarlet_
- - Project Gutenberg
+    - Project Gutenberg
 - Used copy of _A Study In Scarlet_
- - Will purchase from used book store or Amazon
+    - Will purchase from used book store or Amazon
 - Printer paper
- - Should be able to get most using printing dollars
+    - Should be able to get most using printing dollars
 - Heavier paper or cardstock
- - Will purchase from office/art supply store
- - May be able to get by printing on resume paper in Snell
+    - Will purchase from office/art supply store
+    - May be able to get by printing on resume paper in Snell
 - Colored paper
- - Already own
+    - Already own
 - Newspaper
- - Will find
+    - Will find
 - Roll of paper
- - Will purchase from office/art supply store
+    - Will purchase from office/art supply store
 - Typewriter
- - If allowed, will use typewriter at Huskiana Press to create scroll
- - Will work with Professor Cordell and any other students using it to develop plan for use
+    - If allowed, will use typewriter at Huskiana Press to create scroll
+    - Will work with Professor Cordell and any other students using it to develop plan for use
 - Magazines
- - Already own
+    - Already own
 - Scissors, glue, markers/pens/colored pencils
- - Already own
+    - Already own
 - Scanner
- - Snell
+    - Snell
 - Laptop + word processing/design software
- - Already own
+    - Already own
 - Printer
- - On campus
+    - On campus
 
 ## Evaluation
 
