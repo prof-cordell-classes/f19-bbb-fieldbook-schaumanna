@@ -8,7 +8,7 @@ For my book project, I want to explore the concept of the page—what it means a
 
 Part I
 
-- Chapter 1: traditional format, new
+- Chapter 1: traditional format
     - Serve as a sort of control
 - Chapter 2: traditional format, heavily used
     - From used copy of the book that has been well-loved by the reader
