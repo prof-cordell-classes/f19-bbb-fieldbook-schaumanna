@@ -13,6 +13,7 @@ Part I
 - Chapter 2: traditional format, heavily used
     - From used copy of the book that has been well-loved by the reader
     - Ideally highlighting, notes, dog-eared pages
+    - Demonstrate how a reader may engage with traditional format
 - Chapter 3: content divided into coherent sections, pages sized to fit sections
     - Explore what book looks like if page is considered most meaningful unit
 - Chapter 4: "fancy" pages
