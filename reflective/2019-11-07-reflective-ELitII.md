@@ -1,0 +1,13 @@
+# Reflective: E-lit II
+
+#### Alice Schaumann
+
+## Authorial Intent in E-lit
+
+For me, this week's readings and discussions brought up questions regarding authorial intent and the ways in which it is (or is not) manifested and received in e-lit. Flores's discussion of second- and third-generation e-lit in particular was interesting for its focus not just on an author's intent regarding the meaning of a particular work, but also regarding that work's broader place in the canon of electronic literature. Second-generation e-lit authors are aware of their role as e-lit authors and intentionally contribute to the genre. People who make memes and instagram posts still create with some particular intention in mind, but there is less recognition of their role in a broader literature. 
+
+The intention and self-conscious contribution of second-generation e-lit authors is tied to the form of their work. By creating their own interfaces, they have greater control over the way readers interact with their work. This also creates a barrier to entry and an esthetic of difficulty that changes the way the work is perceived—makes it seem more scholarly and draws attention to the intention.
+
+In third-generation e-lit, authors are subject to the affordances of existing interfaces. This has some interesting ramifications for workforms like Twitter bots. The way a Twitter bot's tweets are read influences their impact. A bot like @pentametron is better understood when read on the bot's Twitter page because the tweets are intended to work together as rhyming couplets. @tiny_star_field, on the other hand, serves to break up a follower's Twitter feed, so is better consumed in that context. I noticed that a lot of the Twitter bots we looked at in class get little engagement with any individual tweets. I wonder what this says about their success and the suitability of a platform like Twitter where engagement is the primary metric of success. 
+
+Computer-generated works are also interesting to think about in terms of the role of human creativity. We talked a bit this week about where we locate the creative act in a computer-generated work. In traditional literature, this comes in the way the author chooses what words to put on the page. In computer-gerenated literature, it comes in algorithm development and programming decisions. I therefore think of computer-generated literature as a different artform to traditionally written literature. However, while the type of work that goes into creation is very different, the type of work that goes into reading is often much the same. We still think of a computer-generated poem as a poem. Is the person who creates it still a poet?
